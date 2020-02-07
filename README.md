@@ -1,1 +1,2 @@
 # Word-Guess-Game
+INCOMPLETE AS OF FEB 7, 2020
